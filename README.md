@@ -1,4 +1,4 @@
-# 🔢Jogo do número secreto!
+# Jogo do número secreto!🔂
 
 ✨Este projeto é resultado de uma colaboração entre diversos parceiros que tem como objetivo comum aprimorar a prática nas skills apresentadas (JavaScript | HTML | CSS).
 
@@ -9,3 +9,6 @@
 - Estruturas Condicionais (if and else).
 
 Neste repositório, deixo a disposição um pouco desse projeto incrível. Espero que goste!
+
+# Licença
+Challenge proposto pelas instituições Alura + Oracle através do projeto Oracle Next Education - ONE.
